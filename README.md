@@ -808,7 +808,7 @@ It is designed to be used alongside the Paint Key Exchange web app.*
 
 Created by Simon Rundell, 
 Programme Leader, 
-Dept of ITDD, Exeter College, 
+Dept of Cybersecurity and Digital Technologies, Exeter College, 
 Queen Street, Exeter EX4 4HS
 
 email: simonrundell@exe-coll.ac.uk 
